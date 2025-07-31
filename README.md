@@ -65,7 +65,7 @@ Desafío proporcionado por One-Oracle-NextEducation. Lógica y desarrollo implem
 
 ## Imagenes de la app
 
-![Vista previa del sorteo](CHALLENGE-AMIGO-SECRETO/assets/ChallengeAmigo1.png)
-![Vista previa del sorteo](CHALLENGE-AMIGO-SECRETO/assets/ChallengeAmigo2.png)
+![Vista previa del sorteo](/assets/ChallengeAmigo1.png)
+![Vista previa del sorteo](/assets/ChallengeAmigo2.png)
 ---
 
