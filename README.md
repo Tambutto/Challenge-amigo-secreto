@@ -63,5 +63,9 @@ Simplemente abrí `index.html` en tu navegador. No requiere ningún entorno adic
 
 Desafío proporcionado por One-Oracle-NextEducation. Lógica y desarrollo implementados por **Sandro Tambutto**.
 
+## Imagenes de la app
+
+![Vista previa del sorteo](CHALLENGE-AMIGO-SECRETO/assets/ChallengeAmigo1.png)
+![Vista previa del sorteo](CHALLENGE-AMIGO-SECRETO/assets/ChallengeAmigo2.png)
 ---
 
